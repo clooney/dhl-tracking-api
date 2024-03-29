@@ -3,7 +3,7 @@
 
 TrackingMore broadens this service, allowing for seamless tracking of shipments with its [multi-carrier shipment tracking API](https://www.trackingmore.com/tracking-api) that spans more than 1,200 carriers globally.
 
-TrackingMore's API is adaptable to seven programming languages, including php, go and java, accompanied by thorough documentation that simplifies the integration and setup process.
+TrackingMore's API is adaptable to seven programming languages, such as PHP, Go, and Java, and accompanied by thorough documentation that simplifies the integration and setup process.
 
 ### Features
    *  Unified real-time tracking information for DHL shipments.
