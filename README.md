@@ -1,9 +1,9 @@
 # TrackingMore: DHL Tracking API
-[DHL Tracking API](https://www.trackingmore.com/dhl-tracking-api.html) enables you to connect tracking info of DHL shipments into your system, improving shipment visibility. 
+[DHL Tracking API](https://www.trackingmore.com/dhl-tracking-api.html) merges DHL's shipment tracking information with your internal system, boosting the tracking efficiency of your deliveries.
 
-Besides DHL, TrackingMore supports shipment tracking across 1,200+ global carriers through a robust [multi-carrier shipment tracking API](https://www.trackingmore.com/tracking-api).
+TrackingMore broadens this service, allowing for seamless tracking of shipments with its [multi-carrier shipment tracking API](https://www.trackingmore.com/tracking-api) that spans more than 1,200 carriers globally.
 
-TrackingMore provides API compatibility with seven programming languages. Comprehensive documentation for setup and use is included within this repository to facilitate the integration process.
+TrackingMore's API is adaptable to seven programming languages, including php, go and java, accompanied by thorough documentation that simplifies the integration and setup process.
 
 ### Features
    *  Unified real-time tracking information for DHL shipments.
